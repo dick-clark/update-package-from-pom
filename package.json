@@ -1,0 +1,27 @@
+{
+  "name": "update-package-from-pom",
+  "version": "1.0.0",
+  "description": "Updates package.json with a pomVersion property from your parent pom.xml",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/jasmine-node/bin/jasmine-node test/**/*.spec.js"
+  },
+  "keywords": [
+    "maven",
+    "nodejs",
+    "pom.xml"
+  ],
+  "author": {
+    "name": "Dick Clark",
+    "email": "dick@creativeblank.co.uk",
+    "url": "http://github.com/dick-clark"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "jasmine-node": "^1.14.5",
+    "xml2js": "^0.4.10"
+  }
+}
