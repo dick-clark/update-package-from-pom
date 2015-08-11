@@ -32,6 +32,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/dick-clark/update-package-from-pom.git"
-  },
-  "readme": "README.md"
+  }
 }
