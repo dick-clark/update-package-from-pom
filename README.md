@@ -20,17 +20,17 @@ It looks for both files in that path, more config will come soon, I swear upon t
 
 Given the following pom.xml:
 
-``
+```
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <version>2.5-SNAPSHOT</version>
 </project>
-``
+```
 
 After execution you should see something like this:
 
-``
+```
 {
   "name": "mockPackage",
   "version": "1.0.0",
