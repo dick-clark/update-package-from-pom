@@ -1,6 +1,6 @@
 {
   "name": "update-package-from-pom",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Updates package.json with a pomVersion property from your parent pom.xml",
   "main": "index.js",
   "directories": {
