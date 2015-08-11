@@ -1,5 +1,7 @@
 # update-package-from-pom
 
+[![Build Status](https://travis-ci.org/dick-clark/update-package-from-pom.svg)](https://travis-ci.org/dick-clark/update-package-from-pom)
+
 ## Description
 
 This is a small command-line utility to grab the build version number from a maven `pom.xml` file and insert it into your `package.json` for easy use.
